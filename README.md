@@ -35,7 +35,7 @@ Required Python libraries:
 1. Clone or download the project:
     ```bash
     apt update && apt upgrade
-    pkg upgarde && pkg upgarde
+    pkg update && pkg upgarde
     pkg install git
     pkg install python
     pkg install python3
