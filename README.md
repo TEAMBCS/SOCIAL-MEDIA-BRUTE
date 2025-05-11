@@ -80,5 +80,6 @@ Required Python libraries:
 ---
 
 ### 📬 Contact & More Tools
-GitHub: [github.com/ADIRTTA](https://github.com/ADIRTTA)  
-Facebook: [facebook.com/ADIRTTA](https://facebook.com/ADIRTTA?mibextid=ZbWKwL)
+[![GitHub](https://img.shields.io/badge/GitHub-ADIRTTA-181717?style=for-the-badge&logo=github)](https://github.com/ADIRTTA)
+
+[![Facebook](https://img.shields.io/badge/Facebook-TEAM_BCS-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/groups/572787103428508/?ref=share&mibextid=NSMWBT)
