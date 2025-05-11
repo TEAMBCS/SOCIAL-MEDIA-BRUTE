@@ -38,9 +38,11 @@ Required Python libraries:
     pkg upgarde && pkg upgarde
     pkg install git
     pkg install python
-    pkg install python3 
+    pkg install python3
+    termux-setup-storage
     https://github.com/TEAMBCS/SOCIAL-MEDIA-BRUTE.git
     cd SOCIAL-MEDIA-BRUTE
+    chmod +x *
     pip3 install -r requirements.txt
     python3 social.py
     ```
