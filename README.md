@@ -50,6 +50,7 @@ Required Python libraries:
 2. Ensure your wordlist file and proxy list (`proxy.txt`) are ready.
 
 
+3. User can use `passwords.txt` for attack. Just type (`passwords.txt`) ❤️
 
 ---
 
