@@ -40,7 +40,7 @@ Required Python libraries:
     pkg install python
     pkg install python3
     termux-setup-storage
-    https://github.com/TEAMBCS/SOCIAL-MEDIA-BRUTE.git
+    git clone https://github.com/TEAMBCS/SOCIAL-MEDIA-BRUTE.git
     cd SOCIAL-MEDIA-BRUTE
     chmod +x *
     pip3 install -r requirements.txt
