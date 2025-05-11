@@ -53,7 +53,7 @@ Required Python libraries:
 
 3. User can use `passwords.txt` for attack. Just type (`passwords.txt`) ❤️
 
-4. `apt list --upgradable` run it for installing problem 
+
 ---
 
 ## 📄 File Structure
