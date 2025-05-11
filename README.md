@@ -21,11 +21,7 @@ A powerful and visually rich brute-force tool built for **Instagram**, **Faceboo
 
 - Python 3.10+
 
-Install the required modules using:
 
-```bash
-pip install -r requirements.txt
-```
 
 Required Python libraries:
 - `requests`
@@ -38,16 +34,20 @@ Required Python libraries:
 
 1. Clone or download the project:
     ```bash
-    git clone https://github.com/yourusername/social-media-brute-tool.git
-    cd social-media-brute-tool
+    apt update && apt upgrade
+    pkg upgarde && pkg upgarde
+    pkg install git
+    pkg install python
+    pkg install python3 
+    https://github.com/TEAMBCS/SOCIAL-MEDIA-BRUTE.git
+    cd SOCIAL-MEDIA-BRUTE
+    pip3 install -r requirements.txt
+    python3 social.py
     ```
 
 2. Ensure your wordlist file and proxy list (`proxy.txt`) are ready.
 
-3. Run the tool:
-    ```bash
-    python max.py
-    ```
+
 
 ---
 
