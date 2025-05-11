@@ -58,7 +58,7 @@ Required Python libraries:
 
 ```
 📦 social-media-brute-tool/
-├── max.py                # Main brute-force tool script
+├── social.py                # Main brute-force tool script
 ├── proxy.txt             # (Optional) HTTP proxies list file
 ├── requirements.txt      # Dependency list
 └── README.md             # Documentation file
